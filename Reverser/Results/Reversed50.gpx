@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxdata="http://www.cluetrust.com/XML/GPXDATA/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.cluetrust.com/XML/GPXDATA/1/0 http://www.cluetrust.com/Schemas/gpxdata10.xsd" version="1.1" creator="http://ridewithgps.com/">
+  <metadata>
+    <name>GBDIVIDE v400</name>
+    <link href="https://ridewithgps.com/routes/37041443">
+      <text>GBDIVIDE v400</text>
+    </link>
+    <time>2021-08-05T05:09:13Z</time>
+  </metadata>
+  <trk>
+    <name>GBDIVIDE v400</name>
+    <trkseg>
+      <trkpt lat="50.06738" lon="-5.7148199">
+        <ele>50.78</ele>
+      </trkpt>
+      <trkpt lat="50.0676" lon="-5.71494">
+        <ele>50.42</ele>
+      </trkpt>
+      <trkpt lat="50.06774" lon="-5.71506">
+        <ele>51.86</ele>
+      </trkpt>
+      <trkpt lat="50.06798" lon="-5.71513">
+        <ele>55.03</ele>
+      </trkpt>
+      <trkpt lat="50.06804" lon="-5.7152">
+        <ele>55.28</ele>
+      </trkpt>
+      <trkpt lat="50.06811" lon="-5.71524">
+        <ele>55.46</ele>
+      </trkpt>
+      <trkpt lat="50.06817" lon="-5.71524">
+        <ele>55.51</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

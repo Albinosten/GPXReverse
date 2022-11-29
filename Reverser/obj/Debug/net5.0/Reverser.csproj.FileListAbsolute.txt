@@ -1,0 +1,15 @@
+/Users/albinost/Programming/GPXReverse/Reverser/bin/Debug/net5.0/Reverser.deps.json
+/Users/albinost/Programming/GPXReverse/Reverser/bin/Debug/net5.0/Reverser.runtimeconfig.json
+/Users/albinost/Programming/GPXReverse/Reverser/bin/Debug/net5.0/Reverser.runtimeconfig.dev.json
+/Users/albinost/Programming/GPXReverse/Reverser/bin/Debug/net5.0/Reverser.dll
+/Users/albinost/Programming/GPXReverse/Reverser/bin/Debug/net5.0/ref/Reverser.dll
+/Users/albinost/Programming/GPXReverse/Reverser/bin/Debug/net5.0/Reverser.pdb
+/Users/albinost/Programming/GPXReverse/Reverser/obj/Debug/net5.0/Reverser.csproj.AssemblyReference.cache
+/Users/albinost/Programming/GPXReverse/Reverser/obj/Debug/net5.0/Reverser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/albinost/Programming/GPXReverse/Reverser/obj/Debug/net5.0/Reverser.AssemblyInfoInputs.cache
+/Users/albinost/Programming/GPXReverse/Reverser/obj/Debug/net5.0/Reverser.AssemblyInfo.cs
+/Users/albinost/Programming/GPXReverse/Reverser/obj/Debug/net5.0/Reverser.csproj.CoreCompileInputs.cache
+/Users/albinost/Programming/GPXReverse/Reverser/obj/Debug/net5.0/Reverser.dll
+/Users/albinost/Programming/GPXReverse/Reverser/obj/Debug/net5.0/ref/Reverser.dll
+/Users/albinost/Programming/GPXReverse/Reverser/obj/Debug/net5.0/Reverser.pdb
+/Users/albinost/Programming/GPXReverse/Reverser/obj/Debug/net5.0/Reverser.genruntimeconfig.cache
