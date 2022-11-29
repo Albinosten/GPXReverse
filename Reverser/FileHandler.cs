@@ -6,8 +6,8 @@ namespace Reverser
 {
     public class FileHandler
     {
-        private static string input => "GBDIVIDE_v400.gpx";
-        private static string output => @"/Users/albinost/Programming/GPXReverse/Reverser/Results/Reversed";
+        private static string input => @"/Users/albinost/Programming/GpxData/GBDIVIDE_v400.gpx";
+        private static string output => @"/Users/albinost/Programming/GpxData/Reverser/Reversed";
         // private static string output => @"/Results/Reversed";
         private static string fileType => ".gpx";
 
